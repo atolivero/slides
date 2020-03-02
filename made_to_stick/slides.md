@@ -22,6 +22,7 @@ img[alt~="center"] {
   - Credible
   - Emotional
   - Stories
+  - What Sticks
 
 ___
 
@@ -60,7 +61,6 @@ Hold Attention: Interest
   - Create a Mystery
   - The Gap Theory of Curiosity
   - News teaser approach
-  - Priming the gap
   - Hold long-term interest
 
 ---
@@ -76,8 +76,59 @@ Help people understand and remember
 
 Help people coordinate
   - Find common ground at a shared level of understanding
-  - Set common goals in tangivle terms
+  - Set common goals in tangible terms
   - Why concreteness helps
   - Talk about people, not data
 
 ___
+
+## Credible
+
+Help People Believe
+
+External Credibility
+  - Authority and antiauthority
+
+Internal Credibility
+  - Use convincing details
+  - Make statistics accessible
+  - The Human Scale principle
+  - Find and example that passes the Sinatra Test
+  - Use testable credentials
+
+___
+
+## Emotional
+
+Make People Care
+  - The Mother Teresa principle
+
+Use the Power of Association
+
+Appeal to Self-Interest
+
+Appeal to Identity
+
+___
+
+## Stories
+
+Get People to Act
+
+Stories as Simulation
+
+Stories as Inspiration
+
+___
+
+## What Sticks
+
+Remember how success helps people to:
+
+  - Pay Attention (Unexpected)
+  - Understand and Remember (Concrete)
+  - Believe and Agree (Credible)
+  - Care (Emotional)
+  - Act (Stories)
+
+Simple helps at many stages.  Most important it tells you what to say.
